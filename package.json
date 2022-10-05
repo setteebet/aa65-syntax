@@ -1,0 +1,18 @@
+{
+  "name": "aa65-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยบาทละ95✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยบาทละ95",
+"เว็บหวยยี่กีออนไลน์",
+"lottovip เข้าสู่ระบบลงทะเบียน",
+"การแทงหวยในเว็บ",
+"หวยลาวพัฒนาวันนี้สด"
+],
+  "repository": "https://github.com/setteebet/aa65-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
